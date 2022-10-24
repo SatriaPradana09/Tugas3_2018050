@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas3_2018050</string>
+    <string name="deskription_menu">Mie indomie goreng merupakan mi goreng terlezat yang pernah ada.</string>
+    <string name="ingredients">Tepung, minyak, bawang</string>
+    <string name="price">3000</string>
+    <string name="Harga_Cenil">Rp. 3000</string>
+    <string name="Resep">Rahasia</string>
+</resources>
